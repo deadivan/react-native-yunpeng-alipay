@@ -1,0 +1,16 @@
+{
+  "name": "react-native-yunpeng-alipay",
+  "version": "2.0.0",
+  "description": "alipay module for react native from yunpeng",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "alipay",
+    "yunpeng"
+  ],
+  "author": "m2mbob",
+  "license": "MIT"
+}
